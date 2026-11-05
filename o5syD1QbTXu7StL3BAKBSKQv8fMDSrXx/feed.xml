@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:podcast="https://podcastindex.org/namespace/1.0">
   <channel>
-    <title>America First with Nicholas J Fuentes</title>
+    <title>America First with Nicholas J. Fuentes</title>
     <link>https://rumble.com/c/nickjfuentes</link>
     <atom:link href="https://literalnija5678.github.io/af-audio-feed/o5syD1QbTXu7StL3BAKBSKQv8fMDSrXx/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Fan-made, unofficial podcast feed for personal use only. Private audio feed of the America First livestream from Rumble with the pre-show filler removed.</description>
@@ -13,7 +13,7 @@
     <itunes:type>episodic</itunes:type>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://literalnija5678.github.io/af-audio-feed/cover.png?v=4"/>
-    <image><url>https://literalnija5678.github.io/af-audio-feed/cover.png?v=4</url><title>America First with Nicholas J Fuentes</title><link>https://rumble.com/c/nickjfuentes</link></image>
+    <image><url>https://literalnija5678.github.io/af-audio-feed/cover.png?v=4</url><title>America First with Nicholas J. Fuentes</title><link>https://rumble.com/c/nickjfuentes</link></image>
     <itunes:category text="News"/>
     <itunes:owner><itunes:name>Private feed</itunes:name></itunes:owner>
     <item>
@@ -59,7 +59,7 @@ Chapters:
 
 Pre-show filler removed (audio starts at 02:29:26 of the original stream). Watch on Rumble: https://rumble.com/v7hvrgu-america-first-ep.-1774.html</itunes:summary>
       <itunes:subtitle>Nick Fuentes reacts to the Democrats' sweeping midterm win the night before, calling it the GOP's worst defeat in decades. He blames the Iran war, the economy and Trump's broken promises, goes after pro-Israel donors and JD Vance's post-election...</itunes:subtitle>
-      <itunes:image href="https://literalnija5678.github.io/af-audio-feed/o5syD1QbTXu7StL3BAKBSKQv8fMDSrXx/art/ep-1774.jpg?v=0"/>
+      <itunes:image href="https://literalnija5678.github.io/af-audio-feed/o5syD1QbTXu7StL3BAKBSKQv8fMDSrXx/art/ep-1774.jpg?v=874dd5de"/>
       <podcast:chapters url="https://literalnija5678.github.io/af-audio-feed/o5syD1QbTXu7StL3BAKBSKQv8fMDSrXx/chapters/ep-1774.json" type="application/json+chapters"/>
       <itunes:author>Nick Fuentes</itunes:author>
       <itunes:episode>1774</itunes:episode>
@@ -115,7 +115,7 @@ Chapters:
 
 Pre-show filler removed (audio starts at 02:03:46 of the original stream). Watch on Rumble: https://rumble.com/v7hs63m-america-first-ep.-1773.html</itunes:summary>
       <itunes:subtitle>On the eve of the midterms, Fuentes goes through polls and betting markets pointing to a Democratic wave and argues the Iran war and its economic fallout sank the GOP. He lists what he calls Trump's broken 2024 promises and administration...</itunes:subtitle>
-      <itunes:image href="https://literalnija5678.github.io/af-audio-feed/o5syD1QbTXu7StL3BAKBSKQv8fMDSrXx/art/ep-1773.jpg?v=0"/>
+      <itunes:image href="https://literalnija5678.github.io/af-audio-feed/o5syD1QbTXu7StL3BAKBSKQv8fMDSrXx/art/ep-1773.jpg?v=4959b883"/>
       <podcast:chapters url="https://literalnija5678.github.io/af-audio-feed/o5syD1QbTXu7StL3BAKBSKQv8fMDSrXx/chapters/ep-1773.json" type="application/json+chapters"/>
       <itunes:author>Nick Fuentes</itunes:author>
       <itunes:episode>1773</itunes:episode>
@@ -165,14 +165,14 @@ Chapters:
 
 Pre-show filler removed (audio starts at 02:39:51 of the original stream). Watch on Rumble: https://rumble.com/v7hl510-america-first-ep.-1772.html</itunes:summary>
       <itunes:subtitle>Fuentes opens with reports of governments advising civilians to prepare for war and infrastructure collapse, then turns to the midterm campaign: JD Vance's Fox News town hall, why he thinks Vance can't win, and Elon Musk's midterm spending. He...</itunes:subtitle>
-      <itunes:image href="https://literalnija5678.github.io/af-audio-feed/o5syD1QbTXu7StL3BAKBSKQv8fMDSrXx/art/ep-1772.jpg?v=0"/>
+      <itunes:image href="https://literalnija5678.github.io/af-audio-feed/o5syD1QbTXu7StL3BAKBSKQv8fMDSrXx/art/ep-1772.jpg?v=a03f831c"/>
       <podcast:chapters url="https://literalnija5678.github.io/af-audio-feed/o5syD1QbTXu7StL3BAKBSKQv8fMDSrXx/chapters/ep-1772.json" type="application/json+chapters"/>
       <itunes:author>Nick Fuentes</itunes:author>
       <itunes:episode>1772</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>true</itunes:explicit>
       <itunes:duration>5070</itunes:duration>
-      <enclosure url="https://github.com/literalnija5678/af-audio-feed/releases/download/ep-1772/america-first-ep-1772.mp3" length="40563188" type="audio/mpeg"/>
+      <enclosure url="https://github.com/literalnija5678/af-audio-feed/releases/download/ep-1772/america-first-ep-1772.mp3" length="42163981" type="audio/mpeg"/>
     </item>
     <item>
       <title>ICE AGENTS DOXED??? Left Wing HACKTIVISTS DOX All ICE Agents | America First Ep. 1771</title>
@@ -182,43 +182,45 @@ Pre-show filler removed (audio starts at 02:39:51 of the original stream). Watch
       <description>Fuentes covers reports that left-wing hackers leaked personal data on ICE agents and FBI employees, and how that feeds a broader pressure campaign against immigration enforcement. He looks at polling showing Vivek Ramaswamy behind in Ohio, what a Democratic House could do with impeachment and investigations, and what he says the administration should have done against the left. He then argues the current Trump-aligned GOP has to be wiped out so his movement can take over. About the last 45 minutes is super chats.
 
 Chapters:
-00:00:00 Show open and tonight's rundown
-00:06:09 Subscription site updates
-00:08:13 Vivek trails in Ohio polling
-00:10:16 What a Democratic House could do
-00:18:28 Hackers leak ICE and FBI employee data
-00:24:36 The pressure campaign against ICE
-00:28:43 What the administration should have done
-00:37:10 Why he wants the current GOP wiped out
-00:47:25 The movement as 'the remnant'
-00:57:33 Black-pilled outlook
+00:00:00 Intro theme
+00:00:19 Show open and tonight's rundown
+00:06:28 Subscription site updates
+00:08:32 Vivek trails in Ohio polling
+00:10:35 What a Democratic House could do
+00:18:47 Hackers leak ICE and FBI employee data
+00:24:55 The pressure campaign against ICE
+00:29:02 What the administration should have done
+00:37:29 Why he wants the current GOP wiped out
+00:47:44 The movement as 'the remnant'
+00:57:52 Black-pilled outlook
 
-Pre-show filler removed (audio starts at 01:43:45 of the original stream). Watch on Rumble: https://rumble.com/v7hjgi0-america-first-ep.-1771.html</description>
-      <content:encoded><![CDATA[<p>Fuentes covers reports that left-wing hackers leaked personal data on ICE agents and FBI employees, and how that feeds a broader pressure campaign against immigration enforcement. He looks at polling showing Vivek Ramaswamy behind in Ohio, what a Democratic House could do with impeachment and investigations, and what he says the administration should have done against the left. He then argues the current Trump-aligned GOP has to be wiped out so his movement can take over. About the last 45 minutes is super chats.</p><p><b>Chapters</b><br/>00:00:00 Show open and tonight's rundown<br/>00:06:09 Subscription site updates<br/>00:08:13 Vivek trails in Ohio polling<br/>00:10:16 What a Democratic House could do<br/>00:18:28 Hackers leak ICE and FBI employee data<br/>00:24:36 The pressure campaign against ICE<br/>00:28:43 What the administration should have done<br/>00:37:10 Why he wants the current GOP wiped out<br/>00:47:25 The movement as 'the remnant'<br/>00:57:33 Black-pilled outlook</p><p>Pre-show filler removed (audio starts at 01:43:45 of the original stream). <a href="https://rumble.com/v7hjgi0-america-first-ep.-1771.html">Watch on Rumble</a></p>]]></content:encoded>
+Pre-show filler removed (audio starts at 01:41:47 of the original stream). Watch on Rumble: https://rumble.com/v7hjgi0-america-first-ep.-1771.html</description>
+      <content:encoded><![CDATA[<p>Fuentes covers reports that left-wing hackers leaked personal data on ICE agents and FBI employees, and how that feeds a broader pressure campaign against immigration enforcement. He looks at polling showing Vivek Ramaswamy behind in Ohio, what a Democratic House could do with impeachment and investigations, and what he says the administration should have done against the left. He then argues the current Trump-aligned GOP has to be wiped out so his movement can take over. About the last 45 minutes is super chats.</p><p><b>Chapters</b><br/>00:00:00 Intro theme<br/>00:00:19 Show open and tonight's rundown<br/>00:06:28 Subscription site updates<br/>00:08:32 Vivek trails in Ohio polling<br/>00:10:35 What a Democratic House could do<br/>00:18:47 Hackers leak ICE and FBI employee data<br/>00:24:55 The pressure campaign against ICE<br/>00:29:02 What the administration should have done<br/>00:37:29 Why he wants the current GOP wiped out<br/>00:47:44 The movement as 'the remnant'<br/>00:57:52 Black-pilled outlook</p><p>Pre-show filler removed (audio starts at 01:41:47 of the original stream). <a href="https://rumble.com/v7hjgi0-america-first-ep.-1771.html">Watch on Rumble</a></p>]]></content:encoded>
       <itunes:summary>Fuentes covers reports that left-wing hackers leaked personal data on ICE agents and FBI employees, and how that feeds a broader pressure campaign against immigration enforcement. He looks at polling showing Vivek Ramaswamy behind in Ohio, what a Democratic House could do with impeachment and investigations, and what he says the administration should have done against the left. He then argues the current Trump-aligned GOP has to be wiped out so his movement can take over. About the last 45 minutes is super chats.
 
 Chapters:
-00:00:00 Show open and tonight's rundown
-00:06:09 Subscription site updates
-00:08:13 Vivek trails in Ohio polling
-00:10:16 What a Democratic House could do
-00:18:28 Hackers leak ICE and FBI employee data
-00:24:36 The pressure campaign against ICE
-00:28:43 What the administration should have done
-00:37:10 Why he wants the current GOP wiped out
-00:47:25 The movement as 'the remnant'
-00:57:33 Black-pilled outlook
+00:00:00 Intro theme
+00:00:19 Show open and tonight's rundown
+00:06:28 Subscription site updates
+00:08:32 Vivek trails in Ohio polling
+00:10:35 What a Democratic House could do
+00:18:47 Hackers leak ICE and FBI employee data
+00:24:55 The pressure campaign against ICE
+00:29:02 What the administration should have done
+00:37:29 Why he wants the current GOP wiped out
+00:47:44 The movement as 'the remnant'
+00:57:52 Black-pilled outlook
 
-Pre-show filler removed (audio starts at 01:43:45 of the original stream). Watch on Rumble: https://rumble.com/v7hjgi0-america-first-ep.-1771.html</itunes:summary>
+Pre-show filler removed (audio starts at 01:41:47 of the original stream). Watch on Rumble: https://rumble.com/v7hjgi0-america-first-ep.-1771.html</itunes:summary>
       <itunes:subtitle>Fuentes covers reports that left-wing hackers leaked personal data on ICE agents and FBI employees, and how that feeds a broader pressure campaign against immigration enforcement. He looks at polling showing Vivek Ramaswamy behind in Ohio, what a...</itunes:subtitle>
-      <itunes:image href="https://literalnija5678.github.io/af-audio-feed/o5syD1QbTXu7StL3BAKBSKQv8fMDSrXx/art/ep-1771.jpg?v=e393f103"/>
+      <itunes:image href="https://literalnija5678.github.io/af-audio-feed/o5syD1QbTXu7StL3BAKBSKQv8fMDSrXx/art/ep-1771.jpg?v=8c20a6b5"/>
       <podcast:chapters url="https://literalnija5678.github.io/af-audio-feed/o5syD1QbTXu7StL3BAKBSKQv8fMDSrXx/chapters/ep-1771.json" type="application/json+chapters"/>
       <itunes:author>Nick Fuentes</itunes:author>
       <itunes:episode>1771</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>true</itunes:explicit>
-      <itunes:duration>6548</itunes:duration>
-      <enclosure url="https://github.com/literalnija5678/af-audio-feed/releases/download/ep-1771/america-first-ep-1771.mp3" length="52803765" type="audio/mpeg"/>
+      <itunes:duration>3795</itunes:duration>
+      <enclosure url="https://github.com/literalnija5678/af-audio-feed/releases/download/ep-1771/america-first-ep-1771.mp3" length="31707950" type="audio/mpeg"/>
     </item>
     <item>
       <title>NETANYAHU SURVIVES??? Israeli Elections FAIL To Topple Netanyahu Government | America First Ep. 1770</title>
@@ -261,14 +263,14 @@ Chapters:
 
 Pre-show filler removed (audio starts at 04:15:49 of the original stream). Watch on Rumble: https://rumble.com/v7hhqsg-america-first-ep.-1770.html</itunes:summary>
       <itunes:subtitle>Fuentes breaks down Israel's election, where exit polls suggest neither Netanyahu's bloc nor Gadi Eisenkot's opposition clearly has a majority, leaving Netanyahu in place for now. He argues Netanyahu will try to restart the war with Iran, reviews...</itunes:subtitle>
-      <itunes:image href="https://literalnija5678.github.io/af-audio-feed/o5syD1QbTXu7StL3BAKBSKQv8fMDSrXx/art/ep-1770.jpg?v=0"/>
+      <itunes:image href="https://literalnija5678.github.io/af-audio-feed/o5syD1QbTXu7StL3BAKBSKQv8fMDSrXx/art/ep-1770.jpg?v=7e1b4ce8"/>
       <podcast:chapters url="https://literalnija5678.github.io/af-audio-feed/o5syD1QbTXu7StL3BAKBSKQv8fMDSrXx/chapters/ep-1770.json" type="application/json+chapters"/>
       <itunes:author>Nick Fuentes</itunes:author>
       <itunes:episode>1770</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>true</itunes:explicit>
       <itunes:duration>5595</itunes:duration>
-      <enclosure url="https://github.com/literalnija5678/af-audio-feed/releases/download/ep-1770/america-first-ep-1770.mp3" length="44760334" type="audio/mpeg"/>
+      <enclosure url="https://github.com/literalnija5678/af-audio-feed/releases/download/ep-1770/america-first-ep-1770.mp3" length="45974622" type="audio/mpeg"/>
     </item>
     <item>
       <title>THE END OF NETANYAHU??? Israeli PM FAILS To Trigger New IRAN WAR | America First Ep. 1769</title>
@@ -278,43 +280,45 @@ Pre-show filler removed (audio starts at 04:15:49 of the original stream). Watch
       <description>Fuentes covers reports that Netanyahu considered a provocation or preemptive strike on Iran ahead of Israel's election, and argues that rolling crises have kept him in power for years. He looks at how the Gulf states, Turkey and Pakistan figure into a US-Iran war, how Israel's wider regional aims fit in, and why he sees a pro-Israel network of right-wing leaders as the real enemy. Earlier segments cover merch and a supporter's banner at a Trump rally. The second half is super chats.
 
 Chapters:
-00:00:00 Show open: Netanyahu's pre-election gambit
-00:04:08 The Gulf states, Turkey and Pakistan
-00:10:27 'Black October' and merch plugs
-00:16:30 Supporter's banner at a Trump rally
-00:26:57 How crises kept Netanyahu in power
-00:37:14 Election-eve war provocation fears
-00:47:29 Apocalyptic campaign rhetoric and two-front war
-00:53:48 Israel's regional ambitions
-01:02:07 Pro-Israel influence in America
-01:06:10 The global right-wing 'syndicate'
+00:00:00 Intro theme
+00:00:58 Show open: Netanyahu's pre-election gambit
+00:05:06 The Gulf states, Turkey and Pakistan
+00:11:25 'Black October' and merch plugs
+00:17:28 Supporter's banner at a Trump rally
+00:27:55 How crises kept Netanyahu in power
+00:38:12 Election-eve war provocation fears
+00:48:27 Apocalyptic campaign rhetoric and two-front war
+00:54:46 Israel's regional ambitions
+01:03:05 Pro-Israel influence in America
+01:07:08 The global right-wing 'syndicate'
 
-Pre-show filler removed (audio starts at 02:28:45 of the original stream). Watch on Rumble: https://rumble.com/v7hfxlc-america-first-ep.-1769.html</description>
-      <content:encoded><![CDATA[<p>Fuentes covers reports that Netanyahu considered a provocation or preemptive strike on Iran ahead of Israel's election, and argues that rolling crises have kept him in power for years. He looks at how the Gulf states, Turkey and Pakistan figure into a US-Iran war, how Israel's wider regional aims fit in, and why he sees a pro-Israel network of right-wing leaders as the real enemy. Earlier segments cover merch and a supporter's banner at a Trump rally. The second half is super chats.</p><p><b>Chapters</b><br/>00:00:00 Show open: Netanyahu's pre-election gambit<br/>00:04:08 The Gulf states, Turkey and Pakistan<br/>00:10:27 'Black October' and merch plugs<br/>00:16:30 Supporter's banner at a Trump rally<br/>00:26:57 How crises kept Netanyahu in power<br/>00:37:14 Election-eve war provocation fears<br/>00:47:29 Apocalyptic campaign rhetoric and two-front war<br/>00:53:48 Israel's regional ambitions<br/>01:02:07 Pro-Israel influence in America<br/>01:06:10 The global right-wing 'syndicate'</p><p>Pre-show filler removed (audio starts at 02:28:45 of the original stream). <a href="https://rumble.com/v7hfxlc-america-first-ep.-1769.html">Watch on Rumble</a></p>]]></content:encoded>
+Pre-show filler removed (audio starts at 02:27:31 of the original stream). Watch on Rumble: https://rumble.com/v7hfxlc-america-first-ep.-1769.html</description>
+      <content:encoded><![CDATA[<p>Fuentes covers reports that Netanyahu considered a provocation or preemptive strike on Iran ahead of Israel's election, and argues that rolling crises have kept him in power for years. He looks at how the Gulf states, Turkey and Pakistan figure into a US-Iran war, how Israel's wider regional aims fit in, and why he sees a pro-Israel network of right-wing leaders as the real enemy. Earlier segments cover merch and a supporter's banner at a Trump rally. The second half is super chats.</p><p><b>Chapters</b><br/>00:00:00 Intro theme<br/>00:00:58 Show open: Netanyahu's pre-election gambit<br/>00:05:06 The Gulf states, Turkey and Pakistan<br/>00:11:25 'Black October' and merch plugs<br/>00:17:28 Supporter's banner at a Trump rally<br/>00:27:55 How crises kept Netanyahu in power<br/>00:38:12 Election-eve war provocation fears<br/>00:48:27 Apocalyptic campaign rhetoric and two-front war<br/>00:54:46 Israel's regional ambitions<br/>01:03:05 Pro-Israel influence in America<br/>01:07:08 The global right-wing 'syndicate'</p><p>Pre-show filler removed (audio starts at 02:27:31 of the original stream). <a href="https://rumble.com/v7hfxlc-america-first-ep.-1769.html">Watch on Rumble</a></p>]]></content:encoded>
       <itunes:summary>Fuentes covers reports that Netanyahu considered a provocation or preemptive strike on Iran ahead of Israel's election, and argues that rolling crises have kept him in power for years. He looks at how the Gulf states, Turkey and Pakistan figure into a US-Iran war, how Israel's wider regional aims fit in, and why he sees a pro-Israel network of right-wing leaders as the real enemy. Earlier segments cover merch and a supporter's banner at a Trump rally. The second half is super chats.
 
 Chapters:
-00:00:00 Show open: Netanyahu's pre-election gambit
-00:04:08 The Gulf states, Turkey and Pakistan
-00:10:27 'Black October' and merch plugs
-00:16:30 Supporter's banner at a Trump rally
-00:26:57 How crises kept Netanyahu in power
-00:37:14 Election-eve war provocation fears
-00:47:29 Apocalyptic campaign rhetoric and two-front war
-00:53:48 Israel's regional ambitions
-01:02:07 Pro-Israel influence in America
-01:06:10 The global right-wing 'syndicate'
+00:00:00 Intro theme
+00:00:58 Show open: Netanyahu's pre-election gambit
+00:05:06 The Gulf states, Turkey and Pakistan
+00:11:25 'Black October' and merch plugs
+00:17:28 Supporter's banner at a Trump rally
+00:27:55 How crises kept Netanyahu in power
+00:38:12 Election-eve war provocation fears
+00:48:27 Apocalyptic campaign rhetoric and two-front war
+00:54:46 Israel's regional ambitions
+01:03:05 Pro-Israel influence in America
+01:07:08 The global right-wing 'syndicate'
 
-Pre-show filler removed (audio starts at 02:28:45 of the original stream). Watch on Rumble: https://rumble.com/v7hfxlc-america-first-ep.-1769.html</itunes:summary>
+Pre-show filler removed (audio starts at 02:27:31 of the original stream). Watch on Rumble: https://rumble.com/v7hfxlc-america-first-ep.-1769.html</itunes:summary>
       <itunes:subtitle>Fuentes covers reports that Netanyahu considered a provocation or preemptive strike on Iran ahead of Israel's election, and argues that rolling crises have kept him in power for years. He looks at how the Gulf states, Turkey and Pakistan figure...</itunes:subtitle>
-      <itunes:image href="https://literalnija5678.github.io/af-audio-feed/o5syD1QbTXu7StL3BAKBSKQv8fMDSrXx/art/ep-1769.jpg?v=52f6f17e"/>
+      <itunes:image href="https://literalnija5678.github.io/af-audio-feed/o5syD1QbTXu7StL3BAKBSKQv8fMDSrXx/art/ep-1769.jpg?v=837f97c1"/>
       <podcast:chapters url="https://literalnija5678.github.io/af-audio-feed/o5syD1QbTXu7StL3BAKBSKQv8fMDSrXx/chapters/ep-1769.json" type="application/json+chapters"/>
       <itunes:author>Nick Fuentes</itunes:author>
       <itunes:episode>1769</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>true</itunes:explicit>
-      <itunes:duration>7646</itunes:duration>
-      <enclosure url="https://github.com/literalnija5678/af-audio-feed/releases/download/ep-1769/america-first-ep-1769.mp3" length="61589741" type="audio/mpeg"/>
+      <itunes:duration>4564</itunes:duration>
+      <enclosure url="https://github.com/literalnija5678/af-audio-feed/releases/download/ep-1769/america-first-ep-1769.mp3" length="37838286" type="audio/mpeg"/>
     </item>
     <item>
       <title>LEWANDOWSKI INVESTIGATED??? Kristi Noem "BOYFRIEND" PROBED By DOJ | America First Ep. 1768</title>
@@ -324,43 +328,45 @@ Pre-show filler removed (audio starts at 02:28:45 of the original stream). Watch
       <description>Fuentes covers reports that the Justice Department is looking into Corey Lewandowski, Kristi Noem's adviser, over DHS contracts and a Noem-fronted ad campaign, and uses it to argue the Trump administration is riddled with pay-to-play corruption. He predicts what a Democratic House would investigate, from Signalgate to the Iran war, and why he wants Republicans punished politically before 2028. Earlier segments cover the war's strain on refineries, Starlink and Ukraine, and Trump's health and press outbursts. The last half hour or so is super chats.
 
 Chapters:
-00:00:00 Show open: the Noem-Lewandowski probe
-00:05:08 War updates: refineries and Starlink
-00:13:03 Death hoaxes and Trump's health
-00:23:11 Foreign money and self-dealing
-00:25:41 Inside the DHS contracts and ad campaign
-00:33:17 Watchdogs close in; a politicized DOJ
-00:38:20 What House Democrats will investigate
-00:51:26 Why punish the GOP before 2028
-01:01:58 Susie Wiles' circle and political cronies
-01:12:18 Gulf states, Israel and Muslims in America
+00:00:00 Intro theme
+00:01:17 Show open: the Noem-Lewandowski probe
+00:06:25 War updates: refineries and Starlink
+00:14:20 Death hoaxes and Trump's health
+00:24:28 Foreign money and self-dealing
+00:26:58 Inside the DHS contracts and ad campaign
+00:34:34 Watchdogs close in; a politicized DOJ
+00:39:37 What House Democrats will investigate
+00:52:43 Why punish the GOP before 2028
+01:03:15 Susie Wiles' circle and political cronies
+01:13:35 Gulf states, Israel and Muslims in America
 
-Pre-show filler removed (audio starts at 02:51:07 of the original stream). Watch on Rumble: https://rumble.com/v7h99s6-america-first-ep.-1768.html</description>
-      <content:encoded><![CDATA[<p>Fuentes covers reports that the Justice Department is looking into Corey Lewandowski, Kristi Noem's adviser, over DHS contracts and a Noem-fronted ad campaign, and uses it to argue the Trump administration is riddled with pay-to-play corruption. He predicts what a Democratic House would investigate, from Signalgate to the Iran war, and why he wants Republicans punished politically before 2028. Earlier segments cover the war's strain on refineries, Starlink and Ukraine, and Trump's health and press outbursts. The last half hour or so is super chats.</p><p><b>Chapters</b><br/>00:00:00 Show open: the Noem-Lewandowski probe<br/>00:05:08 War updates: refineries and Starlink<br/>00:13:03 Death hoaxes and Trump's health<br/>00:23:11 Foreign money and self-dealing<br/>00:25:41 Inside the DHS contracts and ad campaign<br/>00:33:17 Watchdogs close in; a politicized DOJ<br/>00:38:20 What House Democrats will investigate<br/>00:51:26 Why punish the GOP before 2028<br/>01:01:58 Susie Wiles' circle and political cronies<br/>01:12:18 Gulf states, Israel and Muslims in America</p><p>Pre-show filler removed (audio starts at 02:51:07 of the original stream). <a href="https://rumble.com/v7h99s6-america-first-ep.-1768.html">Watch on Rumble</a></p>]]></content:encoded>
+Pre-show filler removed (audio starts at 02:49:35 of the original stream). Watch on Rumble: https://rumble.com/v7h99s6-america-first-ep.-1768.html</description>
+      <content:encoded><![CDATA[<p>Fuentes covers reports that the Justice Department is looking into Corey Lewandowski, Kristi Noem's adviser, over DHS contracts and a Noem-fronted ad campaign, and uses it to argue the Trump administration is riddled with pay-to-play corruption. He predicts what a Democratic House would investigate, from Signalgate to the Iran war, and why he wants Republicans punished politically before 2028. Earlier segments cover the war's strain on refineries, Starlink and Ukraine, and Trump's health and press outbursts. The last half hour or so is super chats.</p><p><b>Chapters</b><br/>00:00:00 Intro theme<br/>00:01:17 Show open: the Noem-Lewandowski probe<br/>00:06:25 War updates: refineries and Starlink<br/>00:14:20 Death hoaxes and Trump's health<br/>00:24:28 Foreign money and self-dealing<br/>00:26:58 Inside the DHS contracts and ad campaign<br/>00:34:34 Watchdogs close in; a politicized DOJ<br/>00:39:37 What House Democrats will investigate<br/>00:52:43 Why punish the GOP before 2028<br/>01:03:15 Susie Wiles' circle and political cronies<br/>01:13:35 Gulf states, Israel and Muslims in America</p><p>Pre-show filler removed (audio starts at 02:49:35 of the original stream). <a href="https://rumble.com/v7h99s6-america-first-ep.-1768.html">Watch on Rumble</a></p>]]></content:encoded>
       <itunes:summary>Fuentes covers reports that the Justice Department is looking into Corey Lewandowski, Kristi Noem's adviser, over DHS contracts and a Noem-fronted ad campaign, and uses it to argue the Trump administration is riddled with pay-to-play corruption. He predicts what a Democratic House would investigate, from Signalgate to the Iran war, and why he wants Republicans punished politically before 2028. Earlier segments cover the war's strain on refineries, Starlink and Ukraine, and Trump's health and press outbursts. The last half hour or so is super chats.
 
 Chapters:
-00:00:00 Show open: the Noem-Lewandowski probe
-00:05:08 War updates: refineries and Starlink
-00:13:03 Death hoaxes and Trump's health
-00:23:11 Foreign money and self-dealing
-00:25:41 Inside the DHS contracts and ad campaign
-00:33:17 Watchdogs close in; a politicized DOJ
-00:38:20 What House Democrats will investigate
-00:51:26 Why punish the GOP before 2028
-01:01:58 Susie Wiles' circle and political cronies
-01:12:18 Gulf states, Israel and Muslims in America
+00:00:00 Intro theme
+00:01:17 Show open: the Noem-Lewandowski probe
+00:06:25 War updates: refineries and Starlink
+00:14:20 Death hoaxes and Trump's health
+00:24:28 Foreign money and self-dealing
+00:26:58 Inside the DHS contracts and ad campaign
+00:34:34 Watchdogs close in; a politicized DOJ
+00:39:37 What House Democrats will investigate
+00:52:43 Why punish the GOP before 2028
+01:03:15 Susie Wiles' circle and political cronies
+01:13:35 Gulf states, Israel and Muslims in America
 
-Pre-show filler removed (audio starts at 02:51:07 of the original stream). Watch on Rumble: https://rumble.com/v7h99s6-america-first-ep.-1768.html</itunes:summary>
+Pre-show filler removed (audio starts at 02:49:35 of the original stream). Watch on Rumble: https://rumble.com/v7h99s6-america-first-ep.-1768.html</itunes:summary>
       <itunes:subtitle>Fuentes covers reports that the Justice Department is looking into Corey Lewandowski, Kristi Noem's adviser, over DHS contracts and a Noem-fronted ad campaign, and uses it to argue the Trump administration is riddled with pay-to-play corruption....</itunes:subtitle>
-      <itunes:image href="https://literalnija5678.github.io/af-audio-feed/o5syD1QbTXu7StL3BAKBSKQv8fMDSrXx/art/ep-1768.jpg?v=4d70b9a6"/>
+      <itunes:image href="https://literalnija5678.github.io/af-audio-feed/o5syD1QbTXu7StL3BAKBSKQv8fMDSrXx/art/ep-1768.jpg?v=854f33c3"/>
       <podcast:chapters url="https://literalnija5678.github.io/af-audio-feed/o5syD1QbTXu7StL3BAKBSKQv8fMDSrXx/chapters/ep-1768.json" type="application/json+chapters"/>
       <itunes:author>Nick Fuentes</itunes:author>
       <itunes:episode>1768</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>true</itunes:explicit>
-      <itunes:duration>7340</itunes:duration>
-      <enclosure url="https://github.com/literalnija5678/af-audio-feed/releases/download/ep-1768/america-first-ep-1768.mp3" length="59142199" type="audio/mpeg"/>
+      <itunes:duration>5692</itunes:duration>
+      <enclosure url="https://github.com/literalnija5678/af-audio-feed/releases/download/ep-1768/america-first-ep-1768.mp3" length="46876796" type="audio/mpeg"/>
     </item>
     <item>
       <title>IRAN WAR DAY 237: US Preparing To Resume MAJOR COMBAT OPERATIONS | America First Ep. 1767</title>
@@ -399,14 +405,14 @@ Chapters:
 
 Pre-show filler removed (audio starts at 03:16:40 of the original stream). Watch on Rumble: https://rumble.com/v7h7jfs-america-first-ep.-1767.html</itunes:summary>
       <itunes:subtitle>Fuentes covers reports that the US is preparing to resume major combat operations against Iran after the midterms, including troop moves out of Gulf bases like Al Udeid and Iranian talk of leaving the nuclear treaty. He also goes after Vivek...</itunes:subtitle>
-      <itunes:image href="https://literalnija5678.github.io/af-audio-feed/o5syD1QbTXu7StL3BAKBSKQv8fMDSrXx/art/ep-1767.jpg?v=0a93cb77"/>
+      <itunes:image href="https://literalnija5678.github.io/af-audio-feed/o5syD1QbTXu7StL3BAKBSKQv8fMDSrXx/art/ep-1767.jpg?v=00c15bd9"/>
       <podcast:chapters url="https://literalnija5678.github.io/af-audio-feed/o5syD1QbTXu7StL3BAKBSKQv8fMDSrXx/chapters/ep-1767.json" type="application/json+chapters"/>
       <itunes:author>Nick Fuentes</itunes:author>
       <itunes:episode>1767</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>true</itunes:explicit>
       <itunes:duration>8033</itunes:duration>
-      <enclosure url="https://github.com/literalnija5678/af-audio-feed/releases/download/ep-1767/america-first-ep-1767.mp3" length="64686428" type="audio/mpeg"/>
+      <enclosure url="https://github.com/literalnija5678/af-audio-feed/releases/download/ep-1767/america-first-ep-1767.mp3" length="65859733" type="audio/mpeg"/>
     </item>
     <item>
       <title>VIVEK ATTACK AD BACKFIRES??? Vivek Runs EVIL ATTACK AD Targeting AMY ACTON | America First Ep. 1766</title>
@@ -416,41 +422,43 @@ Pre-show filler removed (audio starts at 03:16:40 of the original stream). Watch
       <description>Fuentes reacts to Vivek Ramaswamy's Ohio governor campaign running an ad against Democrat Amy Acton that features her estranged family, and to the backlash that followed. He argues Ohio is a bellwether, that the ad could cost Republicans the governorship and maybe the Senate, and spends a long stretch attacking Ramaswamy and defender Dinesh D'Souza over immigration and national identity. He also hits commentators who tell voters to back Republicans in the midterms anyway. About the last 50 minutes is super chats.
 
 Chapters:
-00:00:00 Show open: the Vivek ad backlash
-00:05:08 Dinesh D'Souza and the defenders
-00:10:14 Midterm outlook: a GOP bloodbath
-00:15:21 Trump advisers, gas prices and inflation
-00:20:30 Why Ohio is the bellwether
-00:25:34 Inside the attack ad
-00:38:20 Immigrants, identity and the founders
-00:51:02 D'Souza's civic-nationalism argument
-01:01:15 Pundit 180s and 'just vote Republican'
+00:00:00 Intro theme
+00:01:45 Show open: the Vivek ad backlash
+00:06:53 Dinesh D'Souza and the defenders
+00:11:59 Midterm outlook: a GOP bloodbath
+00:17:06 Trump advisers, gas prices and inflation
+00:22:15 Why Ohio is the bellwether
+00:27:19 Inside the attack ad
+00:40:05 Immigrants, identity and the founders
+00:52:47 D'Souza's civic-nationalism argument
+01:03:00 Pundit 180s and 'just vote Republican'
 
-Pre-show filler removed (audio starts at 02:01:52 of the original stream). Watch on Rumble: https://rumble.com/v7h5qsu-america-first-ep.-1766.html</description>
-      <content:encoded><![CDATA[<p>Fuentes reacts to Vivek Ramaswamy's Ohio governor campaign running an ad against Democrat Amy Acton that features her estranged family, and to the backlash that followed. He argues Ohio is a bellwether, that the ad could cost Republicans the governorship and maybe the Senate, and spends a long stretch attacking Ramaswamy and defender Dinesh D'Souza over immigration and national identity. He also hits commentators who tell voters to back Republicans in the midterms anyway. About the last 50 minutes is super chats.</p><p><b>Chapters</b><br/>00:00:00 Show open: the Vivek ad backlash<br/>00:05:08 Dinesh D'Souza and the defenders<br/>00:10:14 Midterm outlook: a GOP bloodbath<br/>00:15:21 Trump advisers, gas prices and inflation<br/>00:20:30 Why Ohio is the bellwether<br/>00:25:34 Inside the attack ad<br/>00:38:20 Immigrants, identity and the founders<br/>00:51:02 D'Souza's civic-nationalism argument<br/>01:01:15 Pundit 180s and 'just vote Republican'</p><p>Pre-show filler removed (audio starts at 02:01:52 of the original stream). <a href="https://rumble.com/v7h5qsu-america-first-ep.-1766.html">Watch on Rumble</a></p>]]></content:encoded>
+Pre-show filler removed (audio starts at 01:59:53 of the original stream). Watch on Rumble: https://rumble.com/v7h5qsu-america-first-ep.-1766.html</description>
+      <content:encoded><![CDATA[<p>Fuentes reacts to Vivek Ramaswamy's Ohio governor campaign running an ad against Democrat Amy Acton that features her estranged family, and to the backlash that followed. He argues Ohio is a bellwether, that the ad could cost Republicans the governorship and maybe the Senate, and spends a long stretch attacking Ramaswamy and defender Dinesh D'Souza over immigration and national identity. He also hits commentators who tell voters to back Republicans in the midterms anyway. About the last 50 minutes is super chats.</p><p><b>Chapters</b><br/>00:00:00 Intro theme<br/>00:01:45 Show open: the Vivek ad backlash<br/>00:06:53 Dinesh D'Souza and the defenders<br/>00:11:59 Midterm outlook: a GOP bloodbath<br/>00:17:06 Trump advisers, gas prices and inflation<br/>00:22:15 Why Ohio is the bellwether<br/>00:27:19 Inside the attack ad<br/>00:40:05 Immigrants, identity and the founders<br/>00:52:47 D'Souza's civic-nationalism argument<br/>01:03:00 Pundit 180s and 'just vote Republican'</p><p>Pre-show filler removed (audio starts at 01:59:53 of the original stream). <a href="https://rumble.com/v7h5qsu-america-first-ep.-1766.html">Watch on Rumble</a></p>]]></content:encoded>
       <itunes:summary>Fuentes reacts to Vivek Ramaswamy's Ohio governor campaign running an ad against Democrat Amy Acton that features her estranged family, and to the backlash that followed. He argues Ohio is a bellwether, that the ad could cost Republicans the governorship and maybe the Senate, and spends a long stretch attacking Ramaswamy and defender Dinesh D'Souza over immigration and national identity. He also hits commentators who tell voters to back Republicans in the midterms anyway. About the last 50 minutes is super chats.
 
 Chapters:
-00:00:00 Show open: the Vivek ad backlash
-00:05:08 Dinesh D'Souza and the defenders
-00:10:14 Midterm outlook: a GOP bloodbath
-00:15:21 Trump advisers, gas prices and inflation
-00:20:30 Why Ohio is the bellwether
-00:25:34 Inside the attack ad
-00:38:20 Immigrants, identity and the founders
-00:51:02 D'Souza's civic-nationalism argument
-01:01:15 Pundit 180s and 'just vote Republican'
+00:00:00 Intro theme
+00:01:45 Show open: the Vivek ad backlash
+00:06:53 Dinesh D'Souza and the defenders
+00:11:59 Midterm outlook: a GOP bloodbath
+00:17:06 Trump advisers, gas prices and inflation
+00:22:15 Why Ohio is the bellwether
+00:27:19 Inside the attack ad
+00:40:05 Immigrants, identity and the founders
+00:52:47 D'Souza's civic-nationalism argument
+01:03:00 Pundit 180s and 'just vote Republican'
 
-Pre-show filler removed (audio starts at 02:01:52 of the original stream). Watch on Rumble: https://rumble.com/v7h5qsu-america-first-ep.-1766.html</itunes:summary>
+Pre-show filler removed (audio starts at 01:59:53 of the original stream). Watch on Rumble: https://rumble.com/v7h5qsu-america-first-ep.-1766.html</itunes:summary>
       <itunes:subtitle>Fuentes reacts to Vivek Ramaswamy's Ohio governor campaign running an ad against Democrat Amy Acton that features her estranged family, and to the backlash that followed. He argues Ohio is a bellwether, that the ad could cost Republicans the...</itunes:subtitle>
-      <itunes:image href="https://literalnija5678.github.io/af-audio-feed/o5syD1QbTXu7StL3BAKBSKQv8fMDSrXx/art/ep-1766.jpg?v=8ae671f1"/>
+      <itunes:image href="https://literalnija5678.github.io/af-audio-feed/o5syD1QbTXu7StL3BAKBSKQv8fMDSrXx/art/ep-1766.jpg?v=0ce7f757"/>
       <podcast:chapters url="https://literalnija5678.github.io/af-audio-feed/o5syD1QbTXu7StL3BAKBSKQv8fMDSrXx/chapters/ep-1766.json" type="application/json+chapters"/>
       <itunes:author>Nick Fuentes</itunes:author>
       <itunes:episode>1766</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>true</itunes:explicit>
-      <itunes:duration>7435</itunes:duration>
-      <enclosure url="https://github.com/literalnija5678/af-audio-feed/releases/download/ep-1766/america-first-ep-1766.mp3" length="59876728" type="audio/mpeg"/>
+      <itunes:duration>4593</itunes:duration>
+      <enclosure url="https://github.com/literalnija5678/af-audio-feed/releases/download/ep-1766/america-first-ep-1766.mp3" length="38040942" type="audio/mpeg"/>
     </item>
     <item>
       <title>FRANCE RACE RIOTS??? "Mostly Peaceful" ANIMALS Destroy PARIS | America First Ep. 1765</title>
@@ -460,43 +468,45 @@ Pre-show filler removed (audio starts at 02:01:52 of the original stream). Watch
       <description>Fuentes opens with JD Vance's town hall exchanges and what he sees as Vance's no-win position on the Iran war, which he calls the root of the administration's problems. He spends a long segment on Vance and Tucker Carlson, including Vance's complaints about attacks on his family. The main story is the riots in Paris, which Fuentes frames around immigration and race while arguing they're no reason to vote Republican in the midterms. Super chats take up roughly the last hour.
 
 Chapters:
-00:00:00 Show open and headlines
-00:05:07 Vance's town hall exchange
-00:10:13 Bonus content and group chat
-00:12:47 The Iran war as the root problem
-00:20:23 Vance tied to Trump's fate
-00:22:55 Vance's town hall swipe at Fuentes
-00:30:37 Tucker, Vance and the 'family attacks' complaint
-00:46:06 NatCon and the Vivek debate
-00:48:38 The Paris riots
-01:13:59 Do the riots mean voting Republican?
+00:00:00 Intro theme
+00:00:59 Show open and headlines
+00:06:06 Vance's town hall exchange
+00:11:12 Bonus content and group chat
+00:13:46 The Iran war as the root problem
+00:21:22 Vance tied to Trump's fate
+00:23:54 Vance's town hall swipe at Fuentes
+00:31:36 Tucker, Vance and the 'family attacks' complaint
+00:47:05 NatCon and the Vivek debate
+00:49:37 The Paris riots
+01:14:58 Do the riots mean voting Republican?
 
-Pre-show filler removed (audio starts at 01:59:05 of the original stream). Watch on Rumble: https://rumble.com/v7h3zqm-america-first-ep.-1765.html</description>
-      <content:encoded><![CDATA[<p>Fuentes opens with JD Vance's town hall exchanges and what he sees as Vance's no-win position on the Iran war, which he calls the root of the administration's problems. He spends a long segment on Vance and Tucker Carlson, including Vance's complaints about attacks on his family. The main story is the riots in Paris, which Fuentes frames around immigration and race while arguing they're no reason to vote Republican in the midterms. Super chats take up roughly the last hour.</p><p><b>Chapters</b><br/>00:00:00 Show open and headlines<br/>00:05:07 Vance's town hall exchange<br/>00:10:13 Bonus content and group chat<br/>00:12:47 The Iran war as the root problem<br/>00:20:23 Vance tied to Trump's fate<br/>00:22:55 Vance's town hall swipe at Fuentes<br/>00:30:37 Tucker, Vance and the 'family attacks' complaint<br/>00:46:06 NatCon and the Vivek debate<br/>00:48:38 The Paris riots<br/>01:13:59 Do the riots mean voting Republican?</p><p>Pre-show filler removed (audio starts at 01:59:05 of the original stream). <a href="https://rumble.com/v7h3zqm-america-first-ep.-1765.html">Watch on Rumble</a></p>]]></content:encoded>
+Pre-show filler removed (audio starts at 01:57:51 of the original stream). Watch on Rumble: https://rumble.com/v7h3zqm-america-first-ep.-1765.html</description>
+      <content:encoded><![CDATA[<p>Fuentes opens with JD Vance's town hall exchanges and what he sees as Vance's no-win position on the Iran war, which he calls the root of the administration's problems. He spends a long segment on Vance and Tucker Carlson, including Vance's complaints about attacks on his family. The main story is the riots in Paris, which Fuentes frames around immigration and race while arguing they're no reason to vote Republican in the midterms. Super chats take up roughly the last hour.</p><p><b>Chapters</b><br/>00:00:00 Intro theme<br/>00:00:59 Show open and headlines<br/>00:06:06 Vance's town hall exchange<br/>00:11:12 Bonus content and group chat<br/>00:13:46 The Iran war as the root problem<br/>00:21:22 Vance tied to Trump's fate<br/>00:23:54 Vance's town hall swipe at Fuentes<br/>00:31:36 Tucker, Vance and the 'family attacks' complaint<br/>00:47:05 NatCon and the Vivek debate<br/>00:49:37 The Paris riots<br/>01:14:58 Do the riots mean voting Republican?</p><p>Pre-show filler removed (audio starts at 01:57:51 of the original stream). <a href="https://rumble.com/v7h3zqm-america-first-ep.-1765.html">Watch on Rumble</a></p>]]></content:encoded>
       <itunes:summary>Fuentes opens with JD Vance's town hall exchanges and what he sees as Vance's no-win position on the Iran war, which he calls the root of the administration's problems. He spends a long segment on Vance and Tucker Carlson, including Vance's complaints about attacks on his family. The main story is the riots in Paris, which Fuentes frames around immigration and race while arguing they're no reason to vote Republican in the midterms. Super chats take up roughly the last hour.
 
 Chapters:
-00:00:00 Show open and headlines
-00:05:07 Vance's town hall exchange
-00:10:13 Bonus content and group chat
-00:12:47 The Iran war as the root problem
-00:20:23 Vance tied to Trump's fate
-00:22:55 Vance's town hall swipe at Fuentes
-00:30:37 Tucker, Vance and the 'family attacks' complaint
-00:46:06 NatCon and the Vivek debate
-00:48:38 The Paris riots
-01:13:59 Do the riots mean voting Republican?
+00:00:00 Intro theme
+00:00:59 Show open and headlines
+00:06:06 Vance's town hall exchange
+00:11:12 Bonus content and group chat
+00:13:46 The Iran war as the root problem
+00:21:22 Vance tied to Trump's fate
+00:23:54 Vance's town hall swipe at Fuentes
+00:31:36 Tucker, Vance and the 'family attacks' complaint
+00:47:05 NatCon and the Vivek debate
+00:49:37 The Paris riots
+01:14:58 Do the riots mean voting Republican?
 
-Pre-show filler removed (audio starts at 01:59:05 of the original stream). Watch on Rumble: https://rumble.com/v7h3zqm-america-first-ep.-1765.html</itunes:summary>
+Pre-show filler removed (audio starts at 01:57:51 of the original stream). Watch on Rumble: https://rumble.com/v7h3zqm-america-first-ep.-1765.html</itunes:summary>
       <itunes:subtitle>Fuentes opens with JD Vance's town hall exchanges and what he sees as Vance's no-win position on the Iran war, which he calls the root of the administration's problems. He spends a long segment on Vance and Tucker Carlson, including Vance's...</itunes:subtitle>
-      <itunes:image href="https://literalnija5678.github.io/af-audio-feed/o5syD1QbTXu7StL3BAKBSKQv8fMDSrXx/art/ep-1765.jpg?v=34606bec"/>
+      <itunes:image href="https://literalnija5678.github.io/af-audio-feed/o5syD1QbTXu7StL3BAKBSKQv8fMDSrXx/art/ep-1765.jpg?v=7bfca68f"/>
       <podcast:chapters url="https://literalnija5678.github.io/af-audio-feed/o5syD1QbTXu7StL3BAKBSKQv8fMDSrXx/chapters/ep-1765.json" type="application/json+chapters"/>
       <itunes:author>Nick Fuentes</itunes:author>
       <itunes:episode>1765</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>true</itunes:explicit>
-      <itunes:duration>9099</itunes:duration>
-      <enclosure url="https://github.com/literalnija5678/af-audio-feed/releases/download/ep-1765/america-first-ep-1765.mp3" length="73189818" type="audio/mpeg"/>
+      <itunes:duration>5320</itunes:duration>
+      <enclosure url="https://github.com/literalnija5678/af-audio-feed/releases/download/ep-1765/america-first-ep-1765.mp3" length="43924100" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>

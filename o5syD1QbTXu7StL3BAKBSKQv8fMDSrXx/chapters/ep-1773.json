@@ -4,63 +4,63 @@
  "chapters": [
   {
    "startTime": 0.0,
+   "title": "Intro theme"
+  },
+  {
+   "startTime": 51.0,
    "title": "Show open: election-eve preview"
   },
   {
-   "startTime": 389.0,
+   "startTime": 440.0,
    "title": "The Iran war's political fallout"
   },
   {
-   "startTime": 635.0,
+   "startTime": 686.0,
    "title": "JD Vance and the war"
   },
   {
-   "startTime": 879.0,
+   "startTime": 930.0,
    "title": "Merch announcements"
   },
   {
-   "startTime": 1004.0,
+   "startTime": 1055.0,
    "title": "Halloween tangent"
   },
   {
-   "startTime": 1499.0,
+   "startTime": 1550.0,
    "title": "Midterm polls: the 'blue tsunami'"
   },
   {
-   "startTime": 2113.0,
+   "startTime": 2164.0,
    "title": "Remembering the 2024 optimism"
   },
   {
-   "startTime": 2487.0,
+   "startTime": 2538.0,
    "title": "Scandals and broken promises"
   },
   {
-   "startTime": 3380.0,
+   "startTime": 3431.0,
    "title": "Why the GOP establishment has to go"
   },
   {
-   "startTime": 3747.0,
+   "startTime": 3798.0,
    "title": "If Democrats take the House: his voting advice"
   },
   {
-   "startTime": 4238.0,
+   "startTime": 4289.0,
    "title": "Election-night coverage plans"
   },
   {
-   "startTime": 4359.0,
+   "startTime": 4410.0,
    "title": "Nuclear talk on Iran and Israeli coalition math"
   },
   {
-   "startTime": 4729.0,
+   "startTime": 4780.0,
    "title": "Report blaming war mismanagement"
   },
   {
-   "startTime": 5096.0,
+   "startTime": 5147.0,
    "title": "Vance, Tucker and the 'peace' narrative"
-  },
-  {
-   "startTime": 5848.0,
-   "title": "Super chats"
   }
  ]
 }
