@@ -6,7 +6,7 @@
     <atom:link href="https://literalnija5678.github.io/af-audio-feed/o5syD1QbTXu7StL3BAKBSKQv8fMDSrXx/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Private audio feed of the America First livestream from Rumble with the pre-show filler removed.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 03 Nov 2026 01:48:52 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 05 Nov 2026 01:29:28 +0000</lastBuildDate>
     <itunes:author>Nick Fuentes</itunes:author>
     <itunes:explicit>true</itunes:explicit>
     <itunes:type>episodic</itunes:type>
@@ -15,6 +15,24 @@
     <image><url>https://literalnija5678.github.io/af-audio-feed/cover.png</url><title>America First (audio, no pre-show)</title><link>https://rumble.com/c/nickjfuentes</link></image>
     <itunes:category text="News"/>
     <itunes:owner><itunes:name>Private feed</itunes:name></itunes:owner>
+    <item>
+      <title>BLUE TSUNAMI DESTROYS GOP??? EXTINCTION-LEVEL DEFEAT FOR MAGA | America First Ep. 1774</title>
+      <link>https://rumble.com/v7hvrgu-america-first-ep.-1774.html</link>
+      <guid isPermaLink="false">rumble-v7hvrgu</guid>
+      <pubDate>Thu, 05 Nov 2026 01:29:28 +0000</pubDate>
+      <description>BLUE TSUNAMI DESTROYS GOP??? EXTINCTION-LEVEL DEFEAT FOR MAGA | America First Ep. 1774
+
+Pre-show filler removed (audio starts at 02:30:28 of the original stream). Watch on Rumble: https://rumble.com/v7hvrgu-america-first-ep.-1774.html</description>
+      <itunes:summary>BLUE TSUNAMI DESTROYS GOP??? EXTINCTION-LEVEL DEFEAT FOR MAGA | America First Ep. 1774
+
+Pre-show filler removed (audio starts at 02:30:28 of the original stream). Watch on Rumble: https://rumble.com/v7hvrgu-america-first-ep.-1774.html</itunes:summary>
+      <itunes:author>Nick Fuentes</itunes:author>
+      <itunes:episode>1774</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>true</itunes:explicit>
+      <itunes:duration>8622</itunes:duration>
+      <enclosure url="https://github.com/literalnija5678/af-audio-feed/releases/download/ep-1774/america-first-ep-1774.mp3" length="68980188" type="audio/mpeg"/>
+    </item>
     <item>
       <title>BLUE TSUNAMI IMMINENT??? Democrats Expected To DESTROY THE GOP | America First Ep. 1773</title>
       <link>https://rumble.com/v7hs63m-america-first-ep.-1773.html</link>
@@ -176,24 +194,6 @@ Pre-show filler removed (audio starts at 01:59:05 of the original stream). Watch
       <itunes:explicit>true</itunes:explicit>
       <itunes:duration>9099</itunes:duration>
       <enclosure url="https://github.com/literalnija5678/af-audio-feed/releases/download/ep-1765/america-first-ep-1765.mp3" length="72794065" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>IRAN WAR DAY 230: Houthis Impose AIR BLOCKADE On Saudi Arabia | America First Ep. 1764</title>
-      <link>https://rumble.com/v7gxa4i-america-first-ep.-1764.html</link>
-      <guid isPermaLink="false">rumble-v7gxa4i</guid>
-      <pubDate>Fri, 16 Oct 2026 00:43:28 +0000</pubDate>
-      <description>IRAN WAR DAY 230: Houthis Impose AIR BLOCKADE On Saudi Arabia | America First Ep. 1764
-
-Pre-show filler removed (audio starts at 02:49:11 of the original stream). Watch on Rumble: https://rumble.com/v7gxa4i-america-first-ep.-1764.html</description>
-      <itunes:summary>IRAN WAR DAY 230: Houthis Impose AIR BLOCKADE On Saudi Arabia | America First Ep. 1764
-
-Pre-show filler removed (audio starts at 02:49:11 of the original stream). Watch on Rumble: https://rumble.com/v7gxa4i-america-first-ep.-1764.html</itunes:summary>
-      <itunes:author>Nick Fuentes</itunes:author>
-      <itunes:episode>1764</itunes:episode>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:explicit>true</itunes:explicit>
-      <itunes:duration>8735</itunes:duration>
-      <enclosure url="https://github.com/literalnija5678/af-audio-feed/releases/download/ep-1764/america-first-ep-1764.mp3" length="69881517" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
